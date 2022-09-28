@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow"/> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue"/> <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=red"/> <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue"/> <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=green"/> <img src="https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack&logoColor=white"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=orange"/>
 
 
+<a href="https://github.com/StasKudinow/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StasKudinow&layout=compact&theme=buefy&hide_border=true" /></a>
+
 <!--
 **StasKudinow/StasKudinow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
