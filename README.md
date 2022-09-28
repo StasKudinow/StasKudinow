@@ -10,8 +10,8 @@
 * 🌱 Изучаю и все больше углубляюсь в __JavaScript__ и __React__.
 * 💬 Так же в планах освоение __TypeScript__ и __Vue__.
 * 📫 Как со мной связаться:
-* email: staskudinow@yandex.ru
-* Telegram: @stas_kudinow
+* __email:__ staskudinow@yandex.ru
+* __Telegram:__ @stas_kudinow
 
 
 ### __Мой стек технологий:__
