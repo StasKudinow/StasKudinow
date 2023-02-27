@@ -7,7 +7,7 @@
 
 
 ### Обо мне:
-* 🌱 Постигаю __JavaScript__ и __React__.
+* 🌱 Развиваю профессиональные навыки __JavaScript__ и __React__.
 * 💬 Так же в планах изучение __TypeScript__.
 * 📫 Как со мной связаться:
 * __email:__ staskudinow@yandex.ru
