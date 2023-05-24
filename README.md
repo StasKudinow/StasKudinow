@@ -5,12 +5,12 @@
 
 💼 Активно ищу работу в сфере __Frontend__ разработки.
 
-👨🏻‍💻 На данный момент занимаюсь разработкой [__пет-проекта__](https://github.com/drink-and-talk) в команде!
+👨🏻‍💻 На данный момент принимаю участие в __стартапе__ [Hold my deer]([https://github.com/drink-and-talk](https://github.com/hold-my-deer) в роли фронтенд разработчика.
 
 
 ### Обо мне:
 * 🌱 Развиваю профессиональные навыки __JavaScript__ и __React__.
-* 💬 Так же в планах изучение __TypeScript__.
+* 💬 Изучаю __TypeScript__ и __Vue.js__.
 * 📫 Как со мной связаться:
 * __email:__ staskudinow@yandex.ru
 * __Telegram:__ @stas_kudinow
